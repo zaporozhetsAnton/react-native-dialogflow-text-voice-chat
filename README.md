@@ -5,7 +5,7 @@ A react-native component that merges functionality of react-native-dialogflow, r
 ## Install
 
 ```shell
-yarn add https://github.com/zaporozhetsAnton/dialogflow-text-voice-chat-react-native react-native-dialogflow react-native-gifted-chat react-native-tts react-native-voice
+yarn add https://github.com/zaporozhetsAnton/react-native-dialogflow-text-voice-chat react-native-dialogflow react-native-gifted-chat react-native-tts react-native-voice
 
 react-native link react-native-voice
 
