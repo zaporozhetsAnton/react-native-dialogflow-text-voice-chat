@@ -22,7 +22,7 @@ You need to get JSON file with private key for enabling Chat component. https://
 
 ## Usage
 
-```shell
+```javascript
     import Chat from 'react-native-dialogflow-text-voice-chat'
 
     import { dialogFlowConfig } from './dialogflow' // dialogFlowConfig - js object created based on dialogflow JSON file created at Configuration step
