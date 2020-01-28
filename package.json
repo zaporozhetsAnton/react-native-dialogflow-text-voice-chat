@@ -1,17 +1,27 @@
 {
-  "name": "dialogflow-text-voice-chat-react-native",
+  "name": "react-native-dialogflow-text-voice-chat",
   "version": "1.0.0",
-  "description": "",
+  "description": "A react-native component that merges functionality of react-native-dialogflow, react-native-gifted-chat, react-native-tts and react-native-voice modules",
   "main": "index.js",
   "scripts": {
     "test": "jest",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "lint-fix": "eslint . --ext .js,.jsx,.ts,.tsx --fix"
   },
-  "keywords": [],
+  "keywords": [
+    "dialogflow",
+    "chat",
+    "voice-chat",
+    "text-chat",
+    "tts",
+    "react-native",
+    "api.ai",
+    "google",
+    "speak",
+    "text-recognition"
+  ],
   "author": "Zaporozhets Anton",
-  "license": "ISC",
-  "dependencies": {},
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.6.2",
     "@babel/runtime": "^7.6.2",
@@ -41,6 +51,10 @@
     "react-native-tts": "^3.1.1",
     "react-native-voice": "^0.3.0",
     "uuid": "^3.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zaporozhetsAnton/dialogflow-text-voice-chat-react-native"
   },
   "jest": {
     "preset": "@testing-library/react-native",
