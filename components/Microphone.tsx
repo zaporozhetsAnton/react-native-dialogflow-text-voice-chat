@@ -1,7 +1,7 @@
 import {Image, TouchableOpacity} from 'react-native';
 import React from 'react';
 
-import styles from '../styles';
+import styles from './styles';
 
 const Microphone = ({
   onMicrophonePress,

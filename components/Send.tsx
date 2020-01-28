@@ -4,7 +4,7 @@ import {createGiftedChatMessage, sendDialogFlowMessage} from '../utils';
 import React from 'react';
 
 import {setMessagesType} from '../utils';
-import styles from '../styles';
+import styles from './styles';
 
 interface IProps {
   text: string;

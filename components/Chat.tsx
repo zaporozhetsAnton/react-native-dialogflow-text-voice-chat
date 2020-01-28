@@ -8,11 +8,11 @@ import {
   setDefaultVoice,
   initializeDialogFlow,
   IDialogFlowConfig,
-} from './utils';
-import {useRecordingCheck} from './utils/hooks';
+} from '../utils';
+import {useRecordingCheck} from '../utils/hooks';
 import styles from './styles';
-import Send from './components/Send';
-import Microphone from './components/Microphone';
+import Send from './Send';
+import Microphone from './Microphone';
 
 interface IProps {
   dialogFlowConfig: IDialogFlowConfig;
