@@ -1,6 +1,6 @@
 {
   "name": "react-native-dialogflow-text-voice-chat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A react-native component that merges functionality of react-native-dialogflow, react-native-gifted-chat, react-native-tts and react-native-voice modules",
   "main": "index.js",
   "scripts": {
