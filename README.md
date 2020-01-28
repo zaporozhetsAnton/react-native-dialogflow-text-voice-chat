@@ -2,6 +2,8 @@
 
 A react-native component that merges functionality of react-native-dialogflow, react-native-gifted-chat, react-native-tts and react-native-voice modules. Gives you the possibility to communicate with dialogflow by text and voice chat.
 
+<img src="downloadreact-native-dialogflow-text-voice-chat.png" alt="Header Image"/>
+
 ## Install
 
 ```shell
