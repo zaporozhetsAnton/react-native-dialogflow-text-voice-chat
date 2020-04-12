@@ -49,7 +49,7 @@
     "react-native-dialogflow": "^3.2.2",
     "react-native-gifted-chat": "^0.13.0",
     "react-native-tts": "^3.1.1",
-    "react-native-voice": "^0.3.0",
+    "@react-native-community/voice": "^1.1.30",
     "uuid": "^3.4.0"
   },
   "repository": {
