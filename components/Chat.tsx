@@ -1,7 +1,7 @@
 import React, {useState, useEffect, memo} from 'react';
 import {GiftedChat, IMessage} from 'react-native-gifted-chat';
 // @ts-ignore
-import Voice from 'react-native-voice';
+import Voice from '@react-native-community/voice';
 import {View} from 'react-native';
 
 import {
